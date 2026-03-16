@@ -1,0 +1,140 @@
+{
+  "hero": {
+    "headline": "Etablovaný turistický areál. Funkční byznys. Připravený k předání.",
+    "subheadline": "Česká Kanada, Albeř. 4 apartmány, restaurace, bazén. Tržby 2025: 4,2 mil. Kč. Obsazenost v létě: 95 %.",
+    "ctaPrimary": "Chci více informací",
+    "ctaSecondary": "Zobrazit čísla"
+  },
+  "stats": {
+    "items": [
+      { "value": "4200000", "label": "Roční tržby 2025", "suffix": " Kč" },
+      { "value": "95", "label": "Obsazenost červen–září", "suffix": " %" },
+      { "value": "1200", "label": "Hostů ročně", "suffix": "+" },
+      { "value": "30", "label": "Hostů rezervuje příští rok při odjezdu", "suffix": " %" }
+    ]
+  },
+  "why": {
+    "headline": "Šest důvodů, proč se tenhle areál prodává jinak než ostatní nemovitosti.",
+    "items": [
+      { "icon": "📈", "text": "Tržby rostou 6 let bez přerušení (~20 % ročně)" },
+      { "icon": "🌲", "text": "Unikátní lokalita — Česká Kanada, bez přímé konkurence" },
+      { "icon": "❤️", "text": "Loajální klientela — direct booking, high repeat rate" },
+      { "icon": "💰", "text": "Okamžitý cash flow (sezóna 2026 z části rezervovaná)" },
+      { "icon": "📋", "text": "Kompletní předání: manuál, databáze, zaměstnanci, dodavatelé" },
+      { "icon": "🚀", "text": "Prostor pro zdvojnásobení příjmů (nevyužité segmenty)" }
+    ]
+  },
+  "owners": {
+    "headline": "Pavel a Lucie to nevzdali, i když to bylo těžké.",
+    "text": "Koupili jsme zarostlé stavení s jednou starou budovou. Bez gastro zázemí, bez apartmánů, bez hostů. Pavel jako stavbař odvedl veškeré práce vlastní firmou — to nám výrazně snížilo investici. Lucie budovala marketing a vztahy s hosty.\n\nDnes máme plně obsazený areál, věrnou komunitu, a zásobník rezervací na příští rok.\n\nChceme předat fungující projekt někomu, kdo ho posune dál. Ne opustit — předat.",
+    "imageAlt": "Pavel a Lucie Rychlí, majitelé areálu"
+  },
+  "location": {
+    "headline": "Česká Kanada není jen adresa. Je to důvod, proč hosté jezdí znovu.",
+    "items": [
+      { "text": "300 m od rybníku Osika (koupání)" },
+      { "text": "Cyklotrasy a turistické stezky přímo od brány" },
+      { "text": "Úzkokolejná železnice Nová Bystřice–Jindřichův Hradec" },
+      { "text": "Blízkost Rakouska — hosté ze zahraničí" },
+      { "text": "Klidná příroda, bez průmyslu, bez hluku" },
+      { "text": "Cyklistické závody Blinduro — opakovaný provoz v sezoně" }
+    ]
+  },
+  "area": {
+    "headline": "Co přesně kupujete.",
+    "items": [
+      { "text": "4 apartmány (kapacita 2–6 osob)" },
+      { "text": "Restaurace a bar (30 míst, letní terasa)" },
+      { "text": "Venkovní bazén 8×4 m s terasou" },
+      { "text": "Stan city (6 míst) + karavanová stání (4 místa s elektro)" },
+      { "text": "Pozemek cca 2 560 m² s prostorem pro rozšíření" },
+      { "text": "Projekt nástavby: dalších 4 apartmány v 1. patře" }
+    ]
+  },
+  "economics": {
+    "headline": "Čísla mluví za sebe. Přineste si svého účetního.",
+    "note": "Ověřitelné z daňových přiznání. Data room k dispozici po podpisu NDA.",
+    "revenueData": [
+      { "year": 2020, "gastro": 750000, "ubytovani": 350000, "festival": 0, "celkem": 1100000 },
+      { "year": 2021, "gastro": 1050000, "ubytovani": 350000, "festival": 0, "celkem": 1400000 },
+      { "year": 2022, "gastro": 1350000, "ubytovani": 350000, "festival": 250000, "celkem": 1950000 },
+      { "year": 2023, "gastro": 1550000, "ubytovani": 350000, "festival": 250000, "celkem": 2150000 },
+      { "year": 2024, "gastro": 1750000, "ubytovani": 350000, "festival": 250000, "celkem": 2350000 },
+      { "year": 2025, "gastro": 2050000, "ubytovani": 350000, "festival": 250000, "celkem": 2650000 }
+    ]
+  },
+  "potential": {
+    "headline": "Tohle je areál, který nikdo nevyužil naplno. Zatím.",
+    "intro": "Pavel jako stavbař provozoval areál paralelně s vlastní firmou — provoz mimo letní sezónu byl minimální.",
+    "items": [
+      { "text": "Glamping / bubble tenty (pozemek to umožňuje)" },
+      { "text": "Wellness kabina (sauna + vířivka)" },
+      { "text": "Firemní team-buildingy a retreaty" },
+      { "text": "Zimní provoz (běžkařské trasy v okolí)" },
+      { "text": "Svatby a eventy" },
+      { "text": "Půjčovna elektrokol" }
+    ]
+  },
+  "knowhow": {
+    "headline": "Nekupujete jen areál. Dostanete vše, co jsme za 6 let vybudovali.",
+    "items": [
+      { "text": "Kompletní provozní know-how (procesy, ceníky, dodavatelé)" },
+      { "text": "Databáze 1 200+ hostů (GDPR)" },
+      { "text": "Zavedené kanály: Booking.com, Airbnb, vlastní web" },
+      { "text": "Recenze a reputaci (průměr 4,8 ★)" },
+      { "text": "Zaměstnance připravené pokračovat" },
+      { "text": "Projektovou dokumentaci rozšíření (další patro)" },
+      { "text": "3 měsíce mentoringu od Pavla a Lucie" }
+    ]
+  },
+  "target": {
+    "headline": "Tenhle projekt není pro každého. Je pro někoho konkrétního.",
+    "groups": [
+      {
+        "title": "Rodina, která chce žít jinak",
+        "description": "Práce v přírodě, smysluplný byznys, rodinný projekt"
+      },
+      {
+        "title": "Zkušený HoReCa investor",
+        "description": "Asset s cash flow, prostor pro optimalizaci"
+      },
+      {
+        "title": "Investiční skupina",
+        "description": "Koupit, rozvinout, prodat s násobkem za 5–7 let"
+      }
+    ]
+  },
+  "faq": {
+    "headline": "Otázky investorů",
+    "items": [
+      {
+        "question": "Jaká je cena?",
+        "answer": "Cenu sdělujeme po podpisu NDA. Odpovídá tržní hodnotě nemovitosti + goodwill fungujícího byznysu s prokázanými tržbami."
+      },
+      {
+        "question": "Je možná due diligence?",
+        "answer": "Ano. Data room s účetními výkazy, daňovými přiznáními a provozní dokumentací zpřístupníme po podpisu LOI (Letter of Intent)."
+      },
+      {
+        "question": "Jaká je právní forma prodeje?",
+        "answer": "Preferujeme prodej obchodního podílu s.r.o. Možný je i asset deal. Záleží na dohodě a daňové optimalizaci kupujícího."
+      },
+      {
+        "question": "Jak probíhá předání?",
+        "answer": "Plánujeme 3–6 měsíců overlapping provozu. Pavel a Lucie zůstávají k dispozici jako mentoři po dobu přechodu."
+      },
+      {
+        "question": "Je sezóna 2026 již rezervovaná?",
+        "answer": "Část rezervací na sezónu 2026 je již potvrzena. Kupující vstupuje do fungujícího byznysu s okamžitým cash flow."
+      },
+      {
+        "question": "Proč prodáváte?",
+        "answer": "Chceme předat projekt do rukou někoho, kdo ho posune dál. Pavel se chce věnovat stavební firmě, Lucie rodinným projektům. Areál si zaslouží plnou pozornost nového majitele."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Prvním krokem je nezávazný hovor.",
+    "subheadline": "Vyplňte formulář. Ozveme se do 24 hodin."
+  }
+}
