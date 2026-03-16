@@ -50,7 +50,7 @@ export function OwnersSection({ data }: Props) {
             <p className="text-[#1a3a2a] font-serif italic text-lg">
               &ldquo;Ne opustit — předat.&rdquo;
             </p>
-            <footer className="text-sm text-gray-500 mt-2">— Pavel a Lucie Rychlí</footer>
+            <footer className="text-sm text-gray-500 mt-2">— Pavel a Lucie Rychlý</footer>
           </blockquote>
         </div>
       </div>

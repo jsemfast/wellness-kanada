@@ -49,7 +49,7 @@ export function PotentialSection({ data }: Props) {
         <p className="text-lg font-serif italic text-green-200 mb-2">
           &ldquo;Každý z těchto segmentů je profitabilní. Žádný z nich jsme nestihli rozvinout naplno.&rdquo;
         </p>
-        <p className="text-sm text-green-300">— Pavel Rychlí, majitel</p>
+        <p className="text-sm text-green-300">— Pavel Rychlý, majitel</p>
         <a
           href="#contact"
           className="inline-block mt-6 bg-[#c9882a] text-white px-8 py-3 rounded-lg font-semibold hover:bg-[#b07720] transition-colors"

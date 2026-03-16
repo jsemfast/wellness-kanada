@@ -27,7 +27,7 @@
   "owners": {
     "headline": "Pavel a Lucie to nevzdali, i když to bylo těžké.",
     "text": "Koupili jsme zarostlé stavení s jednou starou budovou. Bez gastro zázemí, bez apartmánů, bez hostů. Pavel jako stavbař odvedl veškeré práce vlastní firmou — to nám výrazně snížilo investici. Lucie budovala marketing a vztahy s hosty.\n\nDnes máme plně obsazený areál, věrnou komunitu, a zásobník rezervací na příští rok.\n\nChceme předat fungující projekt někomu, kdo ho posune dál. Ne opustit — předat.",
-    "imageAlt": "Pavel a Lucie Rychlí, majitelé areálu"
+    "imageAlt": "Pavel a Lucie Rychlý, majitelé areálu"
   },
   "location": {
     "headline": "Česká Kanada není jen adresa. Je to důvod, proč hosté jezdí znovu.",
@@ -52,7 +52,7 @@
     ]
   },
   "economics": {
-    "headline": "Čísla mluví za sebe. Přineste si svého účetního.",
+    "headline": "Čísla mluví za sebe.",
     "note": "Ověřitelné z daňových přiznání. Data room k dispozici po podpisu NDA.",
     "revenueData": [
       { "year": 2020, "gastro": 750000, "ubytovani": 350000, "festival": 0, "celkem": 1100000 },
@@ -109,7 +109,7 @@
     "items": [
       {
         "question": "Jaká je cena?",
-        "answer": "Cenu sdělujeme po podpisu NDA. Odpovídá tržní hodnotě nemovitosti + goodwill fungujícího byznysu s prokázanými tržbami."
+        "answer": "12 990 000 Kč vč. DPH. Cena zahrnuje nemovitost i goodwill fungujícího byznysu s prokázanými tržbami."
       },
       {
         "question": "Je možná due diligence?",
@@ -117,7 +117,7 @@
       },
       {
         "question": "Jaká je právní forma prodeje?",
-        "answer": "Preferujeme prodej obchodního podílu s.r.o. Možný je i asset deal. Záleží na dohodě a daňové optimalizaci kupujícího."
+        "answer": "Jde o přímý prodej nemovitosti. Po uzavření dohody jsme schopni zajistit založení nové s.r.o. za 1 Kč."
       },
       {
         "question": "Jak probíhá předání?",

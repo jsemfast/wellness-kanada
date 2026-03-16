@@ -10,6 +10,7 @@ import { PotentialSection } from '@/components/sections/PotentialSection'
 import { KnowhowSection } from '@/components/sections/KnowhowSection'
 import { TargetSection } from '@/components/sections/TargetSection'
 import { GallerySection } from '@/components/sections/GallerySection'
+import { VideoSection } from '@/components/sections/VideoSection'
 import { FaqSection } from '@/components/sections/FaqSection'
 import { ContactSection } from '@/components/sections/ContactSection'
 
@@ -29,6 +30,7 @@ export default async function Home() {
       <KnowhowSection data={content.knowhow} />
       <TargetSection data={content.target} />
       <GallerySection />
+      <VideoSection />
       <FaqSection data={content.faq} />
       <ContactSection data={content.contact} />
     </main>

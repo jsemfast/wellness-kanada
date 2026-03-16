@@ -1,7 +1,7 @@
 import { EconomicsSchema } from '@/types/content'
 import { z } from 'zod'
 import { SectionWrapper } from '@/components/ui/SectionWrapper'
-import { RevenueChartClient } from '@/components/ui/RevenueChartClient'
+import { EmailGateChart } from '@/components/ui/EmailGateChart'
 
 type EconomicsData = z.infer<typeof EconomicsSchema>
 
@@ -23,7 +23,7 @@ export function EconomicsSection({ data }: Props) {
         </h2>
       </div>
 
-      {/* Key metrics */}
+      {/* Key metrics — always visible */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
         <div className="bg-white rounded-xl p-6 text-center shadow-sm border border-gray-100">
           <p className="text-3xl font-bold font-serif text-[#1a3a2a]">
@@ -43,46 +43,15 @@ export function EconomicsSection({ data }: Props) {
         </div>
       </div>
 
-      {/* Chart */}
+      {/* Chart + table — gated behind email */}
       <div className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-gray-100">
         <h3 className="font-serif text-lg font-semibold text-[#1a3a2a] mb-6">
           Vývoj tržeb 2020–2025 (Kč)
         </h3>
-        <RevenueChartClient data={data.revenueData} />
+        <EmailGateChart data={data.revenueData} />
         <p className="text-xs text-gray-400 mt-4 text-center">
           {data.note}
         </p>
-      </div>
-
-      {/* Revenue table */}
-      <div className="mt-8 overflow-x-auto">
-        <table className="w-full text-sm">
-          <thead>
-            <tr className="bg-[#1a3a2a] text-white">
-              <th className="text-left px-4 py-3 rounded-tl-lg">Rok</th>
-              <th className="text-right px-4 py-3">Gastro</th>
-              <th className="text-right px-4 py-3">Ubytování</th>
-              <th className="text-right px-4 py-3">Festival</th>
-              <th className="text-right px-4 py-3 rounded-tr-lg font-bold">Celkem</th>
-            </tr>
-          </thead>
-          <tbody>
-            {data.revenueData.map((row, i) => (
-              <tr
-                key={row.year}
-                className={`border-b border-gray-100 ${i % 2 === 0 ? 'bg-white' : 'bg-[#f8f7f4]'} ${
-                  i === data.revenueData.length - 1 ? 'font-semibold text-[#1a3a2a]' : ''
-                }`}
-              >
-                <td className="px-4 py-3">{row.year}</td>
-                <td className="text-right px-4 py-3">{row.gastro.toLocaleString('cs-CZ')} Kč</td>
-                <td className="text-right px-4 py-3">{row.ubytovani.toLocaleString('cs-CZ')} Kč</td>
-                <td className="text-right px-4 py-3">{row.festival > 0 ? `${row.festival.toLocaleString('cs-CZ')} Kč` : '—'}</td>
-                <td className="text-right px-4 py-3 text-[#c9882a]">{row.celkem.toLocaleString('cs-CZ')} Kč</td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
       </div>
     </SectionWrapper>
   )
