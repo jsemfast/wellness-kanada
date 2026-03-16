@@ -1,7 +1,6 @@
 import type { Metadata } from 'next'
 import './globals.css'
-import { Navbar } from '@/components/layout/Navbar'
-import { Footer } from '@/components/layout/Footer'
+
 
 export const metadata: Metadata = {
   title: 'Apartmány Albeř — Turistický areál k prodeji | Česká Kanada',
@@ -36,9 +35,7 @@ export default function RootLayout({
   return (
     <html lang="cs">
       <body className="antialiased">
-        <Navbar />
         {children}
-        <Footer />
       </body>
     </html>
   )
