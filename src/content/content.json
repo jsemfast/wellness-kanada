@@ -1,13 +1,13 @@
 {
   "hero": {
     "headline": "Etablovaný turistický areál. Funkční byznys. Připravený k předání.",
-    "subheadline": "Česká Kanada, Albeř. 4 apartmány, restaurace, bazén. Tržby 2025: 4,2 mil. Kč. Obsazenost v létě: 95 %.",
+    "subheadline": "Česká Kanada, Albeř. 4 apartmány, restaurace, bazén. Letní tržby 2025: 3,2 mil. Kč. Obsazenost červen–září: 95 %.",
     "ctaPrimary": "Chci více informací",
     "ctaSecondary": "Zobrazit čísla"
   },
   "stats": {
     "items": [
-      { "value": "4200000", "label": "Roční tržby 2025", "suffix": " Kč" },
+      { "value": "3200000", "label": "Tržby léto 2025", "suffix": " Kč" },
       { "value": "95", "label": "Obsazenost červen–září", "suffix": " %" },
       { "value": "1200", "label": "Hostů ročně", "suffix": "+" },
       { "value": "30", "label": "Hostů rezervuje příští rok při odjezdu", "suffix": " %" }
@@ -18,14 +18,14 @@
     "items": [
       { "icon": "📈", "text": "Tržby rostou 6 let bez přerušení (~20 % ročně)" },
       { "icon": "🌲", "text": "Unikátní lokalita — Česká Kanada, bez přímé konkurence" },
-      { "icon": "❤️", "text": "Loajální klientela — direct booking, high repeat rate" },
+      { "icon": "❤️", "text": "Loajální klientela — 30 % hostů si rezervuje příští rok ještě při odjezdu, direktní booking bez provizí" },
       { "icon": "💰", "text": "Okamžitý cash flow (sezóna 2026 z části rezervovaná)" },
       { "icon": "📋", "text": "Kompletní předání: manuál, databáze, zaměstnanci, dodavatelé" },
       { "icon": "🚀", "text": "Prostor pro zdvojnásobení příjmů (nevyužité segmenty)" }
     ]
   },
   "owners": {
-    "headline": "Pavel a Lucie to nevzdali, i když to bylo těžké.",
+    "headline": "Přes těžké začátky jsme vybudovali areál, který skutečně funguje.",
     "text": "Koupili jsme zarostlé stavení s jednou starou budovou. Bez gastro zázemí, bez apartmánů, bez hostů. Pavel jako stavbař odvedl veškeré práce vlastní firmou — to nám výrazně snížilo investici. Lucie budovala marketing a vztahy s hosty.\n\nDnes máme plně obsazený areál, věrnou komunitu, a zásobník rezervací na příští rok.\n\nChceme předat fungující projekt někomu, kdo ho posune dál. Ne opustit — předat.",
     "imageAlt": "Pavel a Lucie Rychlý, majitelé areálu"
   },

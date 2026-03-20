@@ -10,10 +10,10 @@ interface Props {
 }
 
 const areaImages = [
-  '/images/gallery/ALBĚŘKAMERA_FOTO_VYLEPSENO-3.JPG',
-  '/images/gallery/ALBĚŘKAMERA_FOTO_VYLEPSENO-5.JPG',
-  '/images/gallery/ALBĚŘKAMERA_FOTO_VYLEPSENO-7.JPG',
-  '/images/gallery/ALBĚŘDRON_FOTO-5.JPG',
+  '/images/gallery/ALBĚŘDRON_FOTO-2.JPG',
+  '/images/gallery/ALBĚŘKAMERA_FOTO_VYLEPSENO-4.JPG',
+  '/images/gallery/ALBĚŘKAMERA_FOTO_VYLEPSENO-6.JPG',
+  '/images/gallery/ALBĚŘDRON_FOTO-3.JPG',
 ]
 
 export function AreaSection({ data }: Props) {

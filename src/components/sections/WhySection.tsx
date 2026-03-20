@@ -21,10 +21,16 @@ export function WhySection({ data }: Props) {
         {data.items.map((item, i) => (
           <div
             key={i}
-            className="bg-white rounded-xl p-6 shadow-sm border border-gray-100 hover:shadow-md transition-shadow"
+            className={`rounded-xl p-7 shadow-sm border hover:shadow-md transition-shadow ${
+              i === 2
+                ? 'bg-[#1a3a2a] border-[#1a3a2a] text-white'
+                : 'bg-white border-gray-100'
+            }`}
           >
-            <div className="text-3xl mb-4">{item.icon}</div>
-            <p className="text-gray-700 leading-relaxed font-medium">{item.text}</p>
+            <div className="text-4xl mb-5">{item.icon}</div>
+            <p className={`leading-relaxed font-semibold text-base md:text-lg ${i === 2 ? 'text-white' : 'text-gray-800'}`}>
+              {item.text}
+            </p>
           </div>
         ))}
       </div>
