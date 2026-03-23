@@ -31,7 +31,7 @@ export function LocationSection({ data }: Props) {
 
         <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-xl">
           <Image
-            src="/images/gallery/ALBĚŘDRON_FOTO-3.JPG"
+            src="/images/gallery/letni/ALBĚŘKAMERA_FOTO-12.JPG"
             alt="Česká Kanada — letecký pohled na krajinu"
             fill
             className="object-cover"

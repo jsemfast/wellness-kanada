@@ -23,6 +23,7 @@ export default async function Home() {
       <StatsSection items={content.stats.items} />
       <WhySection data={content.why} />
       <OwnersSection data={content.owners} />
+      <VideoSection />
       <LocationSection data={content.location} />
       <AreaSection data={content.area} />
       <EconomicsSection data={content.economics} />
@@ -30,7 +31,6 @@ export default async function Home() {
       <KnowhowSection data={content.knowhow} />
       <TargetSection data={content.target} />
       <GallerySection />
-      <VideoSection />
       <FaqSection data={content.faq} />
       <ContactSection data={content.contact} />
     </main>

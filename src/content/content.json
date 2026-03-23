@@ -44,7 +44,7 @@
     "headline": "Co přesně kupujete.",
     "items": [
       { "text": "4 apartmány (kapacita 2–6 osob)" },
-      { "text": "Restaurace a bar (30 míst, letní terasa)" },
+      { "text": "Gastro provoz: restaurace a bar (30 míst, letní terasa)" },
       { "text": "Venkovní bazén 8×4 m s terasou" },
       { "text": "Stan city (6 míst) + karavanová stání (4 místa s elektro)" },
       { "text": "Pozemek cca 2 560 m² s prostorem pro rozšíření" },
@@ -53,7 +53,7 @@
   },
   "economics": {
     "headline": "Čísla mluví za sebe.",
-    "note": "Ověřitelné z daňových přiznání. Data room k dispozici po podpisu NDA.",
+    "note": "Ověřitelné z daňových přiznání.",
     "revenueData": [
       { "year": 2020, "gastro": 750000, "ubytovani": 350000, "festival": 0, "celkem": 1100000 },
       { "year": 2021, "gastro": 1050000, "ubytovani": 350000, "festival": 0, "celkem": 1400000 },
@@ -109,11 +109,7 @@
     "items": [
       {
         "question": "Jaká je cena?",
-        "answer": "12 990 000 Kč vč. DPH. Cena zahrnuje nemovitost i goodwill fungujícího byznysu s prokázanými tržbami."
-      },
-      {
-        "question": "Je možná due diligence?",
-        "answer": "Ano. Data room s účetními výkazy, daňovými přiznáními a provozní dokumentací zpřístupníme po podpisu LOI (Letter of Intent)."
+        "answer": "12 990 000 Kč vč. DPH. Cena zahrnuje nemovitost i fungující byznys s prokázanými tržbami. Rádi dodáme i všechny marketingové podklady jako sociální sítě, web a profily na portálech jako eChalupy, Airbnb nebo Booking.com."
       },
       {
         "question": "Jaká je právní forma prodeje?",

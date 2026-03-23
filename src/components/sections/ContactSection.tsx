@@ -27,8 +27,8 @@ export function ContactSection({ data }: Props) {
                   <span className="text-[#f0b96a]">🔒</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-white">Diskrétní přístup</p>
-                  <p className="text-green-200 text-sm">Veškerá komunikace je důvěrná. NDA podepisujeme standardně.</p>
+                  <p className="font-semibold text-white">Osobní přístup</p>
+                  <p className="text-green-200 text-sm">Potkejme se osobně v Praze nebo přímo na místě.</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -36,8 +36,8 @@ export function ContactSection({ data }: Props) {
                   <span className="text-[#f0b96a]">📋</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-white">Data room po LOI</p>
-                  <p className="text-green-200 text-sm">Účetní výkazy, daňová přiznání a provozní dokumentace.</p>
+                  <p className="font-semibold text-white">Poskytneme potřebná data</p>
+                  <p className="text-green-200 text-sm">Stav nemovitosti, výkon podnikání a taky rezervace na budoucí období.</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -45,8 +45,8 @@ export function ContactSection({ data }: Props) {
                   <span className="text-[#f0b96a]">📞</span>
                 </div>
                 <div>
-                  <p className="font-semibold text-white">Osobní hovor</p>
-                  <p className="text-green-200 text-sm">Pavel nebo Lucie vám zavolají do 24 hodin od odeslání.</p>
+                  <p className="font-semibold text-white">Aktivní jednání</p>
+                  <p className="text-green-200 text-sm">Není na co čekat. Jednáme ihned a proaktivně.</p>
                 </div>
               </div>
             </div>

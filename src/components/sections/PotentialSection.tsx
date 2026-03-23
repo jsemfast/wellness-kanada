@@ -54,7 +54,7 @@ export function PotentialSection({ data }: Props) {
           href="#contact"
           className="inline-block mt-6 bg-[#c9882a] text-white px-8 py-3 rounded-lg font-semibold hover:bg-[#b07720] transition-colors"
         >
-          Prodiskutujeme potenciál →
+          Prodiskutujme potenciál →
         </a>
       </div>
     </SectionWrapper>

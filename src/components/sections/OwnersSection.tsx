@@ -19,7 +19,7 @@ export function OwnersSection({ data }: Props) {
         <div className="relative">
           <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-xl">
             <Image
-              src="/images/gallery/ALBĚŘKAMERA_FOTO_VYLEPSENO-1.JPG"
+              src="/images/gallery/letni/ALBĚŘKAMERA_FOTO_VYLEPSENO-1.JPG"
               alt={data.imageAlt}
               fill
               className="object-cover"

@@ -5,7 +5,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Apartmány Albeř — Turistický areál k prodeji | Česká Kanada',
   description:
-    'Etablovaný turistický areál v Albeři, Česká Kanada. 4 apartmány, restaurace, bazén. Tržby 2025: 4,2 mil. Kč. Funkční byznys připravený k předání.',
+    'Etablovaný turistický areál v Albeři, Česká Kanada. 4 apartmány, gastro provoz, bazén. Tržby 2025: 4,2 mil. Kč. Funkční byznys připravený k předání.',
   keywords: ['prodej areálu', 'turistický areál', 'Česká Kanada', 'Albeř', 'investice do ubytování', 'HoReCa'],
   openGraph: {
     title: 'Apartmány Albeř — Funkční byznys k prodeji',
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     locale: 'cs_CZ',
     images: [
       {
-        url: '/images/gallery/ALBĚŘDRON_FOTO-1.JPG',
+        url: '/images/hero.jpg',
         width: 1200,
         height: 630,
         alt: 'Turistický areál Albeř, Česká Kanada',

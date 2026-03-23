@@ -11,8 +11,8 @@ export function HeroSection({ data }: Props) {
       {/* Background image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/images/gallery/ALBĚŘDRON_FOTO-1.JPG"
-          alt="Turistický areál Albeř — letecký pohled"
+          src="/images/hero.jpg"
+          alt="Turistický areál Albeř — pohled na areál"
           fill
           priority
           className="object-cover"
